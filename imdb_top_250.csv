@@ -1,0 +1,251 @@
+Rank,Name,Year,Rating,Num_user_rating
+1,The Shawshank Redemption,1994,9.2,2481727
+2,The Godfather,1972,9.1,1713955
+3,The Godfather: Part II,1974,9.0,1190529
+4,The Dark Knight,2008,9.0,2436094
+5,12 Angry Men,1957,8.9,734479
+6,Schindler's List,1993,8.9,1273910
+7,The Lord of the Rings: The Return of the King,2003,8.9,1719517
+8,Pulp Fiction,1994,8.8,1920733
+9,Il buono| il brutto| il cattivo,1966,8.8,721731
+10,The Lord of the Rings: The Fellowship of the Ring,2001,8.8,1740782
+11,Fight Club,1999,8.8,1955653
+12,Forrest Gump,1994,8.7,1918893
+13,Inception,2010,8.7,2186105
+14,The Lord of the Rings: The Two Towers,2002,8.7,1554519
+15,Star Wars: Episode V - The Empire Strikes Back,1980,8.7,1211774
+16,The Matrix,1999,8.6,1773295
+17,Goodfellas,1990,8.6,1077218
+18,One Flew Over the Cuckoo's Nest,1975,8.6,958634
+19,Shichinin no samurai,1954,8.6,330622
+20,Se7en,1995,8.6,1527819
+21,The Silence of the Lambs,1991,8.6,1340865
+22,Cidade de Deus,2002,8.6,725037
+23,La vita è bella,1997,8.6,655967
+24,It's a Wonderful Life,1946,8.6,424286
+25,Star Wars,1977,8.6,1283548
+26,Saving Private Ryan,1998,8.6,1300287
+27,Interstellar,2014,8.5,1633033
+28,Sen to Chihiro no kamikakushi,2001,8.5,699660
+29,The Green Mile,1999,8.5,1211219
+30,Gisaengchung,2019,8.5,677044
+31,Léon,1994,8.5,1088918
+32,Seppuku,1962,8.5,49942
+33,The Pianist,2002,8.5,776061
+34,The Usual Suspects,1995,8.5,1033812
+35,Terminator 2: Judgment Day,1991,8.5,1038909
+36,Back to the Future,1985,8.5,1120291
+37,Psycho,1960,8.5,635181
+38,The Lion King,1994,8.5,989459
+39,Modern Times,1936,8.5,230016
+40,American History X,1998,8.5,1071971
+41,Hotaru no haka,1988,8.5,254918
+42,City Lights,1931,8.5,176945
+43,Whiplash,2014,8.5,770373
+44,Gladiator,2000,8.5,1408015
+45,The Departed,2006,8.5,1248001
+46,The Intouchables,2011,8.5,802067
+47,The Prestige,2006,8.5,1252684
+48,Casablanca,1942,8.4,545498
+49,Once Upon a Time in the West,1968,8.4,315932
+50,Rear Window,1954,8.4,468162
+51,Nuovo Cinema Paradiso,1988,8.4,246940
+52,Alien,1979,8.4,828815
+53,Apocalypse Now,1979,8.4,633397
+54,Memento,2000,8.4,1175169
+55,Raiders of the Lost Ark,1981,8.4,921230
+56,The Great Dictator,1940,8.4,214252
+57,The Lives of Others,2006,8.4,374445
+58,Django Unchained,2012,8.4,1438124
+59,Paths of Glory,1957,8.4,188159
+60,Sunset Blvd.,1950,8.4,212266
+61,WALL·E,2008,8.4,1048304
+62,Avengers: Infinity War,2018,8.4,936088
+63,Witness for the Prosecution,1957,8.4,117375
+64,The Shining,1980,8.4,951464
+65,Spider-Man: Into the Spider-Verse,2018,8.4,434299
+66,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.4,469694
+67,Joker,2019,8.3,1087597
+68,Mononoke-hime,1997,8.3,367529
+69,Oldeuboi,2003,8.3,544821
+70,Kimi no na wa.,2016,8.3,228923
+71,The Dark Knight Rises,2012,8.3,1587793
+72,Coco,2017,8.3,438430
+73,Aliens,1986,8.3,682373
+74,Once Upon a Time in America,1984,8.3,331801
+75,Capharnaüm,2018,8.3,77139
+76,Avengers: Endgame,2019,8.3,954801
+77,Das Boot,1981,8.3,241693
+78,Tengoku to jigoku,1963,8.3,40186
+79,American Beauty,1999,8.3,1108798
+80,Toy Story,1995,8.3,932174
+81,3 Idiots,2009,8.3,370098
+82,Hamilton,2020,8.3,75815
+83,Amadeus,1984,8.3,384077
+84,Braveheart,1995,8.3,992720
+85,Inglourious Basterds,2009,8.3,1342809
+86,Good Will Hunting,1997,8.3,906452
+87,Star Wars: Episode VI - Return of the Jedi,1983,8.3,991451
+88,2001: A Space Odyssey,1968,8.3,633482
+89,Reservoir Dogs,1992,8.3,963367
+90,M - Eine Stadt sucht einen Mörder,1931,8.3,151421
+91,Vertigo,1958,8.3,384478
+92,Taare Zameen Par,2007,8.3,181838
+93,Citizen Kane,1941,8.3,424436
+94,Idi i smotri,1985,8.3,69136
+95,Jagten,2012,8.3,306089
+96,Requiem for a Dream,2000,8.3,799450
+97,Singin' in the Rain,1952,8.3,229874
+98,North by Northwest,1959,8.3,313758
+99,Eternal Sunshine of the Spotless Mind,2004,8.3,953228
+100,Ladri di biciclette,1948,8.3,156569
+101,Ikiru,1952,8.3,74220
+102,Lawrence of Arabia,1962,8.3,280828
+103,The Kid,1921,8.2,120841
+104,Full Metal Jacket,1987,8.2,705049
+105,Pather Panchali,1955,8.2,29019
+106,Dangal,2016,8.2,172884
+107,The Father,2020,8.2,104406
+108,The Apartment,1960,8.2,173085
+109,Incendies,2010,8.2,164236
+110,A Clockwork Orange,1971,8.2,789792
+111,Taxi Driver,1976,8.2,766613
+112,Metropolis,1927,8.2,167643
+113,Double Indemnity,1944,8.2,150742
+114,Jodaeiye Nader az Simin,2011,8.2,233236
+115,The Sting,1973,8.2,251684
+116,Scarface,1983,8.2,783447
+117,Snatch,2000,8.2,815764
+118,1917,2019,8.2,501713
+119,Le fabuleux destin d'Amélie Poulain,2001,8.2,727936
+120,To Kill a Mockingbird,1962,8.2,305408
+121,Toy Story 3,2010,8.2,790108
+122,Per qualche dollaro in più,1965,8.2,244813
+123,Up,2009,8.2,981023
+124,Indiana Jones and the Last Crusade,1989,8.2,720615
+125,Heat,1995,8.2,612061
+126,L.A. Confidential,1997,8.2,554165
+127,Yôjinbô,1961,8.2,117868
+128,Ran,1985,8.2,120118
+129,Die Hard,1988,8.2,824634
+130,Rashômon,1950,8.2,160997
+131,Green Book,2018,8.2,432260
+132,Der Untergang,2004,8.2,343053
+133,Monty Python and the Holy Grail,1975,8.2,519925
+134,All About Eve,1950,8.2,126555
+135,Some Like It Hot,1959,8.2,255584
+136,Batman Begins,2005,8.2,1367931
+137,Unforgiven,1992,8.2,393939
+138,Bacheha-Ye aseman,1997,8.2,70875
+139,Dune: Part One,2021,8.2,271388
+140,Hauru no ugoku shiro,2004,8.2,360926
+141,The Wolf of Wall Street,2013,8.2,1277485
+142,Judgment at Nuremberg,1961,8.2,74138
+143,The Great Escape,1963,8.2,234810
+144,Casino,1995,8.2,490972
+145,The Treasure of the Sierra Madre,1948,8.2,120262
+146,There Will Be Blood,2007,8.2,548579
+147,Dersu Uzala,1975,8.2,25571
+148,Pan's Labyrinth,2006,8.1,641580
+149,A Beautiful Mind,2001,8.1,885692
+150,El secreto de sus ojos,2009,8.1,201987
+151,Raging Bull,1980,8.1,337365
+152,Chinatown,1974,8.1,311066
+153,Tonari no Totoro,1988,8.1,313424
+154,Lock| Stock and Two Smoking Barrels,1998,8.1,557516
+155,Shutter Island,2010,8.1,1205879
+156,The Gold Rush,1925,8.1,107014
+157,No Country for Old Men,2007,8.1,907250
+158,Dial M for Murder,1954,8.1,167734
+159,Det sjunde inseglet,1957,8.1,176540
+160,Three Billboards Outside Ebbing| Missouri,2017,8.1,470009
+161,The Thing,1982,8.1,395757
+162,The Elephant Man,1980,8.1,231672
+163,The Sixth Sense,1999,8.1,946655
+164,Klaus,2019,8.1,121456
+165,Smultronstället,1957,8.1,102770
+166,The Third Man,1949,8.1,165858
+167,The Truman Show,1998,8.1,996321
+168,Jurassic Park,1993,8.1,914710
+169,V for Vendetta,2005,8.1,1071405
+170,Salinui chueok,2003,8.1,161383
+171,Inside Out,2015,8.1,658518
+172,Blade Runner,1982,8.1,726932
+173,Trainspotting,1996,8.1,658999
+174,The Bridge on the River Kwai,1957,8.1,212132
+175,Fargo,1996,8.1,646415
+176,Warrior,2011,8.1,451896
+177,Finding Nemo,2003,8.1,988623
+178,Kill Bill: Vol. 1,2003,8.1,1052437
+179,Gone with the Wind,1939,8.1,302712
+180,Tôkyô monogatari,1953,8.1,58104
+181,On the Waterfront,1954,8.1,149189
+182,Babam ve Oglum,2005,8.1,83508
+183,Z,1969,8.1,26066
+184,Relatos salvajes,2014,8.1,188026
+185,Stalker,1979,8.1,127151
+186,The Deer Hunter,1978,8.1,326031
+187,Sherlock Jr.,1924,8.1,46417
+188,Gran Torino,2008,8.1,745298
+189,Persona,1966,8.1,111577
+190,The General,1926,8.1,87326
+191,The Grand Budapest Hotel,2014,8.1,751139
+192,Prisoners,2013,8.1,645145
+193,Before Sunrise,1995,8.1,288704
+194,Mary and Max.,2009,8.1,171324
+195,Mr. Smith Goes to Washington,1939,8.1,111883
+196,Catch Me If You Can,2002,8.1,894762
+197,Room,2015,8.1,395283
+198,In the Name of the Father,1993,8.1,166834
+199,Barry Lyndon,1975,8.1,159375
+200,Gone Girl,2014,8.1,915768
+201,Hacksaw Ridge,2016,8.1,472502
+202,La passion de Jeanne d'Arc,1928,8.1,51801
+203,Andhadhun,2018,8.1,83911
+204,Ford v Ferrari,2019,8.1,340439
+205,12 Years a Slave,2013,8.1,668012
+206,To Be or Not to Be,1942,8.1,34155
+207,The Big Lebowski,1998,8.1,769999
+208,Höstsonaten,1978,8.1,31800
+209,How to Train Your Dragon,2010,8.1,697406
+210,Dead Poets Society,1989,8.1,452378
+211,Mad Max: Fury Road,2015,8.1,934462
+212,Ben-Hur,1959,8.1,229552
+213,Harry Potter and the Deathly Hallows: Part 2,2011,8.1,808207
+214,Million Dollar Baby,2004,8.1,660612
+215,Le salaire de la peur,1953,8.1,58520
+216,Stand by Me,1986,8.1,381879
+217,Ah-ga-ssi,2016,8.1,129842
+218,Network,1976,8.1,153036
+219,Logan,2017,8.1,694265
+220,Cool Hand Luke,1967,8.1,170845
+221,Hachi: A Dog's Tale,2009,8.0,268211
+222,Les quatre cents coups,1959,8.0,112080
+223,La haine,1995,8.0,161450
+224,Gangs of Wasseypur,2012,8.0,90356
+225,Platoon,1986,8.0,396966
+226,Spotlight,2015,8.0,445125
+227,Koe no katachi,2016,8.0,65231
+228,Rebecca,1940,8.0,131732
+229,Monsters| Inc.,2001,8.0,855438
+230,Life of Brian,1979,8.0,383324
+231,Eskiya,1996,8.0,68066
+232,Hotel Rwanda,2004,8.0,344793
+233,Fa Yeung Nin Wah,2000,8.0,138076
+234,Rush,2013,8.0,455126
+235,Into the Wild,2007,8.0,597206
+236,Amores perros,2000,8.0,232885
+237,Rocky,1976,8.0,542859
+238,Kaze no tani no Naushika,1984,8.0,161018
+239,Andrei Rublev,1966,8.0,51198
+240,It Happened One Night,1934,8.0,99372
+241,Fanny och Alexander,1982,8.0,61218
+242,Before Sunset,2004,8.0,249385
+243,Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo| kimi ni,1997,8.0,47460
+244,La battaglia di Algeri,1966,8.0,57212
+245,Le notti di Cabiria,1957,8.0,46473
+246,The Princess Bride,1987,8.0,410571
+247,Paris| Texas,1984,8.0,99968
+248,Trois couleurs: Rouge,1994,8.0,98728
+249,Mandariinid,2013,8.0,44462
+250,Drishyam 2,2021,8.0,31257
